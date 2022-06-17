@@ -20,7 +20,7 @@ song1 type:audio size:1087849B
 song2 type:audio size:764176B
 trump type:image size:10195B
 
-Oltre a stamparne le informazioni via via che li sposti, tieni traccia dei file creando un documento recap.csv con le stesse informazioni. Trovi un esempio in questa cartella.
+Oltre a stamparne le informazioni via via che li sposti, tieni traccia dei file creando un documento recap.csv con le stesse informazioni.
 
 La struttura finale della cartella files dovrà essere:
 
