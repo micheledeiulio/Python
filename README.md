@@ -8,7 +8,7 @@ Durante il ciclo, lo script deve stampare le informazioni dei file: nome, tipo e
 
 Oltre a stamparne le informazioni via via che li spostio, tiene traccia dei file creando un documento recap.csv con le stesse informazioni.
 
-# Step 3
+# Step 2
 
 Aggiungere al notebook dello Step 1 uno script che itera sulla sottocartella images e costruisca una tabella riassuntiva che dovrà riportare oltre al nome del file:
 
